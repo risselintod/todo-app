@@ -1,5 +1,5 @@
 <?php
 
-header("Location: ./app/ciews/index.php");
+header("Location: ./app/views/index.php");
 
 ?>
