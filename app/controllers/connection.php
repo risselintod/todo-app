@@ -1,9 +1,14 @@
 <?php
 
-$host = "localhost";
-$username = "root";
+// $host = "localhost";
+// $username = "root";
+// $password = "";
+// $dbname = "todo_app_db";
+
+$host = "db4free";
+$username = "risselintod";
 $password = "";
-$dbname = "todo_app_db";
+$dbname = "risselintod";
 
 $conn = mysqli_connect($host, $username, $password, $dbname);
 
