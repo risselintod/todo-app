@@ -5,9 +5,9 @@
 // $password = "";
 // $dbname = "todo_app_db";
 
-$host = "db4free";
+$host = "db4free.net";
 $username = "risselintod";
-$password = "";
+$password = "@godismysavior111";
 $dbname = "risselintod";
 
 $conn = mysqli_connect($host, $username, $password, $dbname);
